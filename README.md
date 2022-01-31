@@ -15,6 +15,7 @@
 <a src="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
 <a src="https://vuejs.org/"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.tableau.com/products/public"><img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
