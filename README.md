@@ -7,7 +7,7 @@
 
 #### 📍 Currently base at: Atlanta, Georgia
 
-#### 💼 Currently projects: Discord [Newsdog](https://github.com/kyle-rgb/Discord_Project)
+#### 💼 Currently projects: <a href="https://github.com/kyle-rgb/Discord_Project"><img src="https://img.icons8.com/doodle/48/000000/discord-logo.png"/></img></a>
 
 #### 👨🏻‍💻 Currently working on:
 
