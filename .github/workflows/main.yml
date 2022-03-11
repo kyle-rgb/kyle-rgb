@@ -1,6 +1,16 @@
 name: WakaTime status update
 
 on:
+  workflow_dispatch:
+      inputs:
+        logLevel:
+          description: 'Log level'     
+          required: true
+          default: 'warning'
+        tags:
+          description: 'Test scenario tags'
+          required: true
+          default: 'test 1.0'  
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
     - cron: "0 0 * * *"
