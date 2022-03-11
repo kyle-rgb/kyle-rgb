@@ -33,11 +33,14 @@
 ### My WakaTime Stats
 
 <!--START_SECTION:waka-->
-
+<img
+  src="https://github.com/kyle-rgb/kyle-rgb/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
 
 ⭐️ From [kyle-rgb](https://github.com/kyle-rgb)
-
+[![wakatime](https://wakatime.com/badge/user/975b89b6-ecdd-4b46-b8c4-6aad7c05dfb6.svg)](https://wakatime.com/@975b89b6-ecdd-4b46-b8c4-6aad7c05dfb6)
 <!--
 **kyle-rgb/kyle-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
