@@ -59,7 +59,7 @@
  > 
 > 🔑 1 Private Repository 
  > 
-**I'm an Early 🐤** 
+**I'm an Evening 🦉** 
 
 ```text
 🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.73% 
@@ -121,12 +121,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 VBA                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/kyle-rgb/kyle-rgb/main/charts/bar_graph.png) 
-
 
  Last Updated on 13/03/2022 18:50:45 UTC
 <!--END_SECTION:waka-->
