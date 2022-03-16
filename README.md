@@ -131,7 +131,7 @@ VBA                      1 repo              █░░░░░░░░░░�
 
 ⭐️ From [kyle-rgb](https://github.com/kyle-rgb)
 
-### How to Reach Me : [📫](kylel9815@gmail.com)
+### How to Reach Me : [📫](mailto:kylel9815@gmail.com)
 
 
 <!--
