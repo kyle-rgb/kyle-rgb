@@ -125,6 +125,9 @@ VBA                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 16/03/2022 12:20:53 UTC
 <!--END_SECTION:waka-->
+**Languages This Week**
+
+![Chart not found](https://raw.githubusercontent.com/kyle-rgb/kyle-rgb/main/images/stat.svg) 
 
 ⭐️ From [kyle-rgb](https://github.com/kyle-rgb)
 
