@@ -10,7 +10,7 @@
 
 <a href="https://github.com/kyle-rgb/Grocery-Clerk"><img src="images/kroger.png" width='250px' height='200px' /></img></a>
 
-#### 👨🏻‍💻 Currently working on:
+#### 👨🏻‍💻 Currently working with:
 
 <a href="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python--v1.png"/></a>
@@ -32,6 +32,7 @@
 <a href="https://www.docker.com/"><img src="https://img.icons8.com/color/96/000000/docker.png" style='margin-right: 15px'/></a>
 <a href="https://airflow.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="250px" height="96px" style='margin-right: 15px'/></a>
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.icons8.com/color/96/000000/powershell.png" style='margin-right: 15px'/></a>
+<a href="https://help.ubuntu.com/"><img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" style='margin-right: 15px'/></a>
 <a href="https://www.linux.org/"><img src="images/linux.gif" style='margin-right: 15px' width="96px" height="96px"/></a>
 
 
