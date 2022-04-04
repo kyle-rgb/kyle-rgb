@@ -34,7 +34,7 @@
 <a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://img.icons8.com/color/96/000000/powershell.png" style='margin-right: 15px'/></a>
 <a href="https://help.ubuntu.com/"><img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" style='margin-right: 15px'/></a>
 <a href="https://www.linux.org/"><img src="images/linux.gif" style='margin-right: 15px' width="96px" height="96px"/></a>
-<a href="https://www.scala-lang.org/"><img src="https://img.icons8.com/dusk/128/000000/scala.png"style='margin-right: 15px' width="96px" height="96px"/></a>
+<a href="https://www.scala-lang.org/"><img src="https://img.icons8.com/dusk/128/000000/scala.png" style='margin-right: 15px' width="96px" height="96px"/></a>
 
 
 
