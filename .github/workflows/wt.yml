@@ -21,4 +21,3 @@ jobs:
           SHOW_PROFILE_VIEWS: true
           SHOW_TOTAL_CODE_TIME: true
           SHOW_LOC_CHART: false
-          ACTIONS_RUNNER_DEBUG: true
