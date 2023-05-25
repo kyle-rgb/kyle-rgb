@@ -45,7 +45,7 @@
 ### My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,17 +90,16 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JSON                     0 secs              ██████████████████░░░░░░░   71.88 % 
-Python                   0 secs              ███████░░░░░░░░░░░░░░░░░░   28.12 % 
+Python                   6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Grocery-Clerk            0 secs              █████████████████████████   100.00 % 
+Grocery-Clerk            6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -116,7 +115,7 @@ VBA                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 04:17:31 UTC
+ Last Updated on 25/05/2023 04:16:43 UTC
 <!--END_SECTION:waka-->
 **Languages This Week**
 
