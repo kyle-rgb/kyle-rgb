@@ -45,7 +45,7 @@
 ### My WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 11.0 MB Used in GitHub's Storage 
+> 📦 11.1 MB Used in GitHub's Storage 
  > 
 > 🏆 104 Contributions in the Year 2023
  > 
@@ -90,7 +90,11 @@ Sunday                   126 commits         ███░░░░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+Python                   6 mins              ███████████████████████░░   92.50 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+YAML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
 VS Code                  6 mins              █████████████████████████   100.00 % 
@@ -115,7 +119,7 @@ VBA                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2023 04:17:24 UTC
+ Last Updated on 30/05/2023 04:17:33 UTC
 <!--END_SECTION:waka-->
 **Languages This Week**
 
